@@ -2,7 +2,7 @@ import Link from "next/link";
 
 function Navbar() {
   return (
-    <nav className="bg-white shadow-sm border-b">
+    <nav className="navbar">
       <div className="mx-auto px-4 max-w-6xl">
         <div className="flex justify-between items-center h-16">
           <div className="shrink-0">
